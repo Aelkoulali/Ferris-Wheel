@@ -1,2 +1,4 @@
-# Ferris-Wheel
-## HTML & CSS only
+# Ferris Wheel
+## HTML & CSS 
+## Key Concepts :
+### CSS Animations
