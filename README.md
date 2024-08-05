@@ -1,4 +1,3 @@
-# Ferris Wheel
-## HTML & CSS 
-## Key Concepts :
-### CSS Animations
+# 🗂️ Ferris Wheel 🎡
+## ➡️ Key Concepts :
+### ✅ CSS Animations
